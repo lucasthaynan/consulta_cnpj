@@ -89,4 +89,8 @@ h1 {
     width: 100%;
   }
   
+  #form-cnpj label, #form-cnpj input {
+    width: 100%;
+  }
+  
 }
