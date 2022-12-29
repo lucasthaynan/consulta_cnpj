@@ -82,3 +82,11 @@ h1 {
   text-align: center;
   margin: 0 0 20px;
 }
+
+@media (max-width: 800px) {
+  /* Estilos para tela menor que 800 pixels */
+  .container {
+    width: 100%;
+  }
+  
+}
